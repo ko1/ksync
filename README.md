@@ -1,6 +1,6 @@
 # ksync.rb
 
-Sync modified files using pscp (putty).
+eSync modified files using pscp (putty).
 
 # Install
 
